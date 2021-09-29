@@ -1,0 +1,4 @@
+./argus -e "cut -f7 -d: /etc/passwd | uniq | wc -l" 
+./argus -e "ls -l"
+./argus -e date
+./argus -e "abcd"
