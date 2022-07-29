@@ -17,4 +17,4 @@
 >
 > Por fim o ficheiro [argusd.c](https://github.com/pVeloso19/SO-19-20/blob/main/argusd.c) representa o programa elaborado para o serviço.
 
-Nota Final: 15.5/20
+Nota Final: 16/20
